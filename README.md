@@ -9,7 +9,7 @@ How to use it:
 Use the AP Mode of the A9 mini WiFi Camera and connect your device with it.
 Then run the script in a terminal window like this: python3 a9.py
 
-to learn more, visit: https://community.home-assistant.io/t/popular-a9-mini-wi-fi-camera-the-ha-challenge
+to learn more, visit: https://community.home-assistant.io/t/popular-a9-mini-wi-fi-camera-the-ha-challenge/230108
 
 My Version of the A9 mini Wi-Fi Camera uses the Little Stars App and the SSID starts with BCCQ.
 There are also other Versions out there. It clould be that your variant of the A9 mini WiFi Camera is not compatible with this script.
